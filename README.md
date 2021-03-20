@@ -1,1 +1,4 @@
-# snake_game
+### Usage
+
+```
+python3 main.py
